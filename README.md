@@ -1,62 +1,80 @@
-# Hi 👋, I'm Karthik MN
+# Karthik MN | Deep Learning & Full Stack Engineer
 
-## Deep Learning Engineer & Hardware Verification Specialist
-**Bridging the Gap Between AI Intelligence and Hardware Precision**
+## 🚀 Professional Summary
+
+Deep Learning Engineer with a robust Electronics Background, specializing in cutting-edge AI and machine learning technologies. Passionate about developing intelligent systems and full-stack web applications.
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Coding" width="400" />
+    <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="AI & Development Banner" width="500">
 </div>
 
-### 🚀 Current Focus
-- 🧠 Deep Learning: Working on **CIFAR-100 Advanced Image Classification Models**
-- 🔌 Hardware Verification: Developing comprehensive SystemVerilog testbenches and verification environments
-- 🌱 Learning: Advanced RNN Architectures & DevOps Methodologies
+## 🔍 Current Focus
 
-### 💻 Professional Highlights
-- Full-stack Engineer with a unique blend of Deep Learning and Hardware Verification expertise
-- Specialized in creating robust verification strategies for complex digital systems
-- Proficient in developing intelligent AI models and rigorous hardware test methodologies
+- 🧠 **Current Project:** Cifar100 - Deep Learning Image Model
+- 🌱 **Learning Path:** Recurrent Neural Networks, DevOps
+- 🤝 **Collaborative Interest:** [Hyperparameter Tuning for Image Models](https://github.com/itsmeeren/ai_model)
 
-### 🛠 Technical Toolkit
+## 💻 Technical Expertise
 
-#### Programming Languages
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-blue?style=flat-square)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+### Languages and Tools
+<p>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <!-- Add more tools here -->
+</p>
 
-#### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+### Skills
+- Deep Learning
+- Machine Learning Algorithms
+- Full Stack Development
+- TensorFlow & PyTorch
+- Django Web Framework
 
-#### Hardware & Verification
-![ModelSim](https://img.shields.io/badge/-ModelSim-informational?style=flat-square)
-![UVM](https://img.shields.io/badge/-UVM-blueviolet?style=flat-square)
-![Xilinx Vivado](https://img.shields.io/badge/-Xilinx%20Vivado-03A9F4?style=flat-square)
+## 📊 GitHub Analytics
 
-#### Web & Deployment
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmeeren&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%"/>
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=itsmeeren&show_icons=true&locale=en" alt="GitHub Stats" width="45%"/>
+</div>
 
-### 🔍 Key Projects
-- **CIFAR-100 Deep Learning Image Classification**
-- **Advanced SystemVerilog Verification Environments**
-  - Developing comprehensive testbenches
-  - Implementing advanced verification strategies
-  - Creating reusable verification components
+<br clear="both"/>
 
-### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeeren&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmeeren&show_icons=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=itsmeeren)
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsmeeren&" alt="GitHub Streak Stats"/>
+</p>
 
-### 📬 Get in Touch
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/karthik-mn)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://instagram.com/karthik__m_n)
-📧 **Email**: karthikmn199@gmail.com
+## 🌐 Professional Links
 
-### 💡 Fun Fact
-**Did you know that a Deep Learning Engineer who's also a Hardware Verification Specialist is like a tech superhero, capable of building intelligent systems from both software and hardware perspectives?**
+- 📂 **Portfolio:** [All Projects](https://github.com/itsmeeren)
+- 📄 **Resume:** [View Detailed Experience](https://drive.google.com/file/d/1qYBYGvboUgk-nO8cOLieKdxKTHrbqhtv/view?usp=drive_link)
+- 📧 **Contact:** karthikmn199@gmail.com
+
+## 🤝 Connect with Me
+
+<p align="left">
+    <a href="https://linkedin.com/in/karthik-mn" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    </a>
+    <a href="https://instagram.com/karthik__m_n" target="_blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+</p>
+
+## 🚀 Project Showcase
+
+### [Your Project Name]
+[Brief description of your project]
+- Technologies Used: 
+- Key Features:
+- Project Link: [Add your project link here]
+
+*Feel free to add more projects and customize this section*
+
+---
+
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=itsmeeren&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
