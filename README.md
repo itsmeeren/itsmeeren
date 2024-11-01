@@ -1,65 +1,69 @@
-# Karthik MN | Deep Learning & Full Stack Engineer
+# Karthik MN | Deep Learning & Digital Design Verification Engineer
 
-## 🚀 Professional Summary
-Deep Learning Engineer with a robust Electronics Background, specializing in cutting-edge AI and machine learning technologies. Passionate about developing intelligent systems and full-stack web applications.
+## 🚀 Professional Profile
+A dedicated Deep Learning professional with a robust foundation in electronics and computer vision, specializing in advanced neural network development and digital design verification. Proficient in Python, TensorFlow, and System Verilog, with extensive expertise in image classification, processing, and cutting-edge verification techniques.
 
 <div align="center">
-    <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="AI & Development Banner" width="500">
+    <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Deep Learning & Verification Banner" width="600">
 </div>
 
-## 🔍 Current Focus
-- 🧠 **Current Project:** Universal Verification Methodology (UVM) & Verification Techniques
-- 🌱 **Learning Path:** Recurrent Neural Networks, DevOps
-- 🤝 **Collaborative Interest:** [Hyperparameter Tuning for Image Models](https://github.com/itsmeeren/ai_model)
+## 🎓 Education
+**The National Institute of Engineering, Mysore**
+- Electronics and Communication Engineering
+- Expected Graduation: May 2026
+- Academic Excellence: CGPA 9.35/10.0
 
 ## 💻 Technical Expertise
 
-### Languages and Tools
-<p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/SystemVerilog_logo.svg" alt="systemverilog" width="40" height="40"/>
-</p>
+### 🛠 Skills
+**Programming Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge)
+![Verilog](https://img.shields.io/badge/Verilog-green?style=for-the-badge)
 
-### Skills
-- Deep Learning
-- Machine Learning Algorithms
-- Full Stack Development
-- TensorFlow & PyTorch
-- Django Web Framework
-- SystemVerilog
-- Verilog
-- Universal Verification Methodology (UVM)
+**Machine Learning & Deep Learning:**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-## 🚀 Project Gallery
+**Development & Verification Tools:**
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Project Showcase
-<div align="center">
-  <a href="https://github.com/itsmeeren?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsmeeren&repo=ai_model&show_owner=true" alt="AI Model Repository" width="45%"/>
-  </a>
-  <a href="https://github.com/itsmeeren?tab=repositories" target="_blank">
-    <img src="https://openbadges.org/wp-content/uploads/2020/04/Projects.png" alt="More Projects" width="45%"/>
-  </a>
-</div>
+## 🚀 Key Projects
 
-## 🌐 Professional Links
-- 📂 **Portfolio:** [All Projects](https://github.com/itsmeeren)
-- 📄 **Resume:** [View Detailed Experience](https://drive.google.com/file/d/1qYBYGvboUgk-nO8cOLieKdxKTHrbqhtv/view?usp=drive_link)
-- 📧 **Contact:** karthikmn199@gmail.com
+### 1. FIFO Memory Buffer Verification
+**Aug 2024 – Nov 2024**
+- Developed comprehensive verification strategy for FIFO memory buffer
+- Designed class-based randomized System Verilog testbench
+- Analyzed coverage metrics and identified design vulnerabilities
 
-## 🤝 Connect with Me
-<p align="left">
-    <a href="https://linkedin.com/in/karthik-mn" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com/karthik__m_n" target="_blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-    </a>
-</p>
+### 2. CNN Accelerator on FPGA
+**Nov 2024 – Jan 2025**
+- Deployed CNN accelerator on FPGA with ARM Cortex-A9
+- Integrated AXI interconnect for efficient ARM-FPGA communication
+- Achieved significant speed improvements for CNN classification
+
+### 3. CIFAR-10 Image Classification
+**Jan 2024 – July 2024**
+- Developed optimized image classification model using TensorFlow
+- Implemented advanced techniques like Dropout and learning rate scheduling
+- Achieved 74% accuracy through strategic hyperparameter tuning
+
+## 🏆 Achievements & Activities
+- Active member of ISSA Cybersecurity Club
+- Circuit design lead at Force Ikshvaku Club
+- Continuous learner in verification and machine learning domains
+
+## 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-mn-669566259)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeeren)
+
+## 📊 GitHub Statistics
+![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeeren&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeeren&layout=compact&theme=radical)
 
 ---
 <p align="center">
