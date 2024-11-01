@@ -41,7 +41,7 @@ A dedicated Deep Learning professional with a robust foundation in electronics a
 **Nov 2024 – Jan 2025**
 - Deployed CNN accelerator on FPGA with ARM Cortex-A9
 - Integrated AXI interconnect for efficient ARM-FPGA communication
-##**To be done **
+To be done
 - Deployment on ZedBoard , and to speed up cnn computation for training of required data
 - To use ARM potential in user interface and interconnected to FPGA  via AXI protocol
 
