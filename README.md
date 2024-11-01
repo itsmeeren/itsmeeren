@@ -58,8 +58,9 @@ A dedicated Deep Learning professional with a robust foundation in electronics a
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-mn-669566259)
-[![Resume](https://img.shields.io/badge/LinkedIn%20Resume-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-mn-669566259/detail/resume/)
+[![Resume](https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://linkedin.com/in/karthik-mn-669566259/detail/resume/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeeren)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](YOUR_INSTAGRAM_USERNAME)
 
 ## 📊 GitHub Statistics
 ![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeeren&show_icons=true&theme=radical)
