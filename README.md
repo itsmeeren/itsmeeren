@@ -1,92 +1,105 @@
-# Karthik MN | Design Verification & Embedded Systems Engineer  
+<div align="center">
 
-## 🚀 Professional Profile  
-Dedicated **Design Verification and Embedded Systems Engineer** with expertise in **SystemVerilog, UVM, RTL design, and Embedded C**. Experienced in developing **STM32 peripheral drivers, UART FSMs, CNN accelerators, and full UVM testbenches** with coverage, assertions, and constrained random verification. Proficient in **STM32 driver development, memory-mapped peripherals, and AXI/APB/UART/CAN protocols**.  
+```
+ ██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗██╗██╗  ██╗
+ ██║ ██╔╝██╔══██╗██╔══██╗╚══██╔══╝██║  ██║██║██║ ██╔╝
+ █████╔╝ ███████║██████╔╝   ██║   ███████║██║█████╔╝ 
+ ██╔═██╗ ██╔══██║██╔══██╗   ██║   ██╔══██║██║██╔═██╗ 
+ ██║  ██╗██║  ██║██║  ██║   ██║   ██║  ██║██║██║  ██╗
+ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```
 
-Also skilled in **Deep Learning and Computer Vision**, with hands-on experience in **TensorFlow, CNNs, Transformers, and OpenCV**, bridging AI with hardware acceleration. Strong problem-solving abilities honed through **tech projects and competitive environments**.  
+### `Embedded Systems · IoT · Edge Computing · Firmware`
 
----
+<img src="https://komarev.com/ghpvc/?username=itsmeeren&label=Profile+Views&color=0e75b6&style=flat-square" />
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/karthik-mn-669566259)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github)](https://github.com/itsmeeren)
 
-## 🎓 Education  
-**The National Institute of Engineering, Mysore**  
-- B.E. Electronics and Communication Engineering  
-- Expected Graduation: May 2026  
-- CGPA: 9.35/10  
-
----
-
-## 💻 Technical Expertise  
-
-### 🛠 Programming & Hardware  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-blue?style=for-the-badge)  
-![Verilog](https://img.shields.io/badge/Verilog-green?style=for-the-badge)  
-![Embedded C](https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge)  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge)  
-
-### ⚡ Embedded & Verification Tools  
-![STM32](https://img.shields.io/badge/STM32-339933?style=for-the-badge)  
-![Vivado](https://img.shields.io/badge/Vivado-F16A24?style=for-the-badge)  
-![Vitis](https://img.shields.io/badge/Vitis-FF3C00?style=for-the-badge)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)  
-
-### 🤖 Machine Learning & AI  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+</div>
 
 ---
 
-## 🚀 Key Projects  
+## `> whoami`
 
-### 1. **STM32 GPIO Driver Development**  
-**Aug 2024 – Nov 2024**  
-- Developed **GPIO driver for STM32 microcontroller** using **Embedded C**  
-- Implemented **pin initialization, read/write operations, and interrupt configuration**  
-- Integrated driver with **external peripherals and LEDs** for real-time testing  
-- Validated performance through **user-level applications** and tested edge-case handling  
+Electronics engineer who lives at the hardware-software boundary — writing firmware that talks directly to registers, building IoT pipelines that push sensor data to the cloud, and connecting edge devices to platforms like **Azure IoT**. I care about what happens at the bare-metal level and how that data travels all the way up to a dashboard.
 
-### 2. **UART Transmitter FSM Verification**  
-**Nov 2024 – Jan 2025**  
-- Built **UART transmitter module** using FSM in SystemVerilog  
-- Developed **UVM testbench** with randomized `tx_data` generation, functional coverage, and protocol checks  
-- Simulated and validated **synchronization with DUT**, ensuring robust data transmission  
-
-### 3. **CNN Accelerator on FPGA with ARM Cortex-A9**  
-**Jan 2025 – Mar 2025**  
-- Implemented **CNN inference engine** on FPGA, interconnected via **AXI interconnect** for ARM-FPGA communication  
-- Accelerated CNN computation on **ZedBoard**, leveraging ARM cores for UI and FPGA for computation  
-- Optimized **dataflow for high throughput and low latency**  
-
-### 4. **CIFAR-10 Image Classification**  
-**Mar 2024 – July 2024**  
-- Built **image classification model using TensorFlow and Keras**  
-- Applied **Dropout, learning rate scheduling, and hyperparameter tuning**, achieving **74% accuracy**  
-- Preprocessed data using **OpenCV** for improved model performance  
+Currently finishing a B.E. in ECE at **NIE Mysore** (CGPA: 9.35) · Graduating May 2026.
 
 ---
 
-## 🏆 Achievements & Activities  
-- Circuit design lead at **Force Ikshvaku Racing**  
-- Continuous learner in **Digital Verification, Embedded Systems, and Machine Learning**  
-- Active contributor to **personal projects and open-source repositories**  
+## `> cat skills.txt`
+
+**Firmware & Embedded**
+```
+Embedded C · STM32 · Bare-metal Driver Dev · Memory-Mapped I/O · GPIO · UART · I2C · SPI · CAN
+```
+
+**IoT & Connectivity**
+```
+ESP32 · Wi-Fi · MQTT · Azure IoT Hub · Azure IoT Central · Device Provisioning · OTA Updates
+```
+
+**Edge & Tooling**
+```
+FreeRTOS · Git · Python · Serial Debugging · Logic Analyzers
+```
+
+**ML at the Edge** *(bonus)*
+```
+TensorFlow Lite · CNN Inference · OpenCV · Edge Optimization
+```
 
 ---
 
-## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthik-mn-669566259)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/itsmeeren)  
-[![Resume](https://img.shields.io/badge/Resume-0077B5?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://linkedin.com/in/karthik-mn-669566259/detail/resume/)  
+## `> ls -la projects/`
 
 ---
 
-## 📊 GitHub Statistics  
-![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsmeeren&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeeren&layout=compact&theme=radical)  
+### 📁 `stm32-peripheral-drivers/` &nbsp; · &nbsp; `Aug–Nov 2024`
+> *Bare-metal drivers, no HAL, no shortcuts*
+
+Built production-style **GPIO and peripheral drivers** for STM32 entirely in Embedded C. No HAL layer — direct register manipulation, memory-mapped I/O, NVIC interrupt configuration. Covers pin init, read/write ops, alternate function config, and edge-case handling validated on real hardware.
+
+`Embedded C` `STM32` `Memory-Mapped I/O` `UART` `Interrupts` `Bare-Metal`
 
 ---
 
-<p align="center">  
-    <img src="https://komarev.com/ghpvc/?username=itsmeeren&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />  
-</p>  
+### 📁 `cifar10-edge-classifier/` &nbsp; · &nbsp; `Mar–Jul 2024`
+> *Image classification pipeline with edge deployment in mind*
+
+Trained a **CNN on CIFAR-10** using TensorFlow and Keras, reaching 74% accuracy with dropout regularization, learning rate scheduling, and hyperparameter tuning. Preprocessed data with OpenCV. Built with edge inference optimization as a downstream goal.
+
+`TensorFlow` `Keras` `OpenCV` `CNNs` `Python` `Edge ML`
+
+---
+
+> 🔧 **More projects actively being built** — ESP32 IoT pipelines, Azure-connected devices, and RTOS-based firmware. Watch this space.
+
+---
+
+## `> cat achievements.txt`
+
+- 🏎️ **Circuit Design Lead** — Formula Student racing team, responsible for the car's electrical systems
+- 📡 Deep-diving into **ESP32 + Azure IoT** for connected device development
+- 🔩 Strong foundation in **bare-metal embedded** moving up the stack into full IoT solutions
+
+---
+
+## `> ./github-stats`
+
+<div align="center">
+
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsmeeren&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itsmeeren&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*Building firmware one register at a time. Pushing data one packet at a time.*
+
+</div>
