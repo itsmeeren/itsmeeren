@@ -25,8 +25,8 @@ I build firmware close to the metal and connect devices to the cloud. My focus i
 - FreeRTOS — task scheduling, queues, semaphores, mutexes
 
 **Languages & Tools**
-- Embedded C, Python, Bash
-- Git, VS Code, STM32CubeIDE, Arduino Framework
+- Embedded C, Python
+- Git,Azure IOT hub, STM32CubeIDE, Espressif Framework
 
 ---
 
